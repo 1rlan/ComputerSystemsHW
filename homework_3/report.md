@@ -6,24 +6,25 @@
 <br>
 <br>
 
-## Непосредственная пересылка данных в регистры
+## 1) Непосредственная пересылка данных в регистры
 
 ![](https://github.com/1rlan/csahw/blob/main/homework_3/screenshots/1.png)
 
 <br>
-## Пересылки между регистрами
+
+## 2) Пересылки между регистрами
 ![](https://github.com/1rlan/csahw/blob/main/homework_3/screenshots/2.png)
 
 <br>
-## Работа с локальными данными (стеком)
+## 3) Работа с локальными данными (стеком)
 ![](https://github.com/1rlan/csahw/blob/main/homework_3/screenshots/3.png)
 
 <br>
-## Непосредственная загрузка констант и локальные данные
+## 4) Непосредственная загрузка констант и локальные данные
 ![](https://github.com/1rlan/csahw/blob/main/homework_3/screenshots/4.png)
 
 <br>
-## Переходы
+## 5) Переходы
 ![](https://github.com/1rlan/csahw/blob/main/homework_3/screenshots/5.png)
 
 <br>
