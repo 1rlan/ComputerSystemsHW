@@ -30,7 +30,7 @@ CMAIN:
 
 #### Программа, вычисляющая факториал числа
 
-```
+```assembly
 %include "io64.inc"
 section .text
 global CMAIN
